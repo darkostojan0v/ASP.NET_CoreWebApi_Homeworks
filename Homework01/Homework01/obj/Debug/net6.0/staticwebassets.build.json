@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Bj20h6R7JgI7+VzRO9v3tFGHW9ONS20E7gm8Ua5e+xM=",
+  "Source": "Homework01",
+  "BasePath": "_content/Homework01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Homework01\\wwwroot",
+      "Source": "Homework01",
+      "ContentRoot": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Homeworks ASP.NET Core Web Api\\Homework01\\Homework01\\Homework01\\wwwroot\\",
+      "BasePath": "_content/Homework01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Homeworks ASP.NET Core Web Api\\Homework01\\Homework01\\Homework01\\wwwroot\\simple.html",
+      "SourceId": "Homework01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Homeworks ASP.NET Core Web Api\\Homework01\\Homework01\\Homework01\\wwwroot\\",
+      "BasePath": "_content/Homework01",
+      "RelativePath": "simple.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\simple.html"
+    },
+    {
+      "Identity": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Homeworks ASP.NET Core Web Api\\Homework01\\Homework01\\Homework01\\wwwroot\\simple.js",
+      "SourceId": "Homework01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleks\\OneDrive\\Desktop\\SEDC 2021-2022\\Homeworks ASP.NET Core Web Api\\Homework01\\Homework01\\Homework01\\wwwroot\\",
+      "BasePath": "_content/Homework01",
+      "RelativePath": "simple.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\simple.js"
+    }
+  ]
+}
